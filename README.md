@@ -1,3 +1,3 @@
 # farmtofork
 
-A Farm to Fork traceability solution
+A product life cycle traceability solution built on Hyperledger Composer
